@@ -6,6 +6,6 @@ Frontend LIVE URL - https://hrm-orcin.vercel.app/
 
 
 
-Backend Repository - https://github.com/rupanbiswas/JS-express-HRM 
+Backend Repository - https://github.com/rupanbiswas/JS-express-HRM
 Frontend Repository - https://github.com/rupanbiswas/JS-react-HRM 
 
